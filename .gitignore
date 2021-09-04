@@ -1,6 +1,7 @@
 /target/
 /.metadata/
 /.recommenders/
+mcms.log
 ##ignore this file##
 /target/ 
 .classpath
